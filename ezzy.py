@@ -1,7 +1,5 @@
 import pygame
 
-import pygame
-
 active = False
 
 def init():
